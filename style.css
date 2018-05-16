@@ -1,0 +1,30 @@
+body {
+  font-family: Helvetica;
+  margin: 0 auto;
+  width: 95%;
+}
+main {
+  margin: 0 auto;
+  min-width: 320px;
+  width: 75%;
+}
+h1 {
+  font-family: Courier;
+  font-size: 4em;
+  margin: 0.5em auto;
+  text-align: center;
+  width: 90%;
+}
+ul {
+  margin: 1em 0;
+}
+ul li {
+  list-style-type: none;
+  text-align: center;
+}
+span {
+  font-size: 0.75em;
+  text-decoration: underline;
+  vertical-align: top;
+  font-style: italic;
+}
